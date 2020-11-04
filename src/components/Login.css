@@ -1,0 +1,12 @@
+.login {
+  display: flex;
+  justify-content: center;
+  justify-items: center;
+  width: 382px;
+  overflow: hidden;
+  margin: auto;
+  margin: 20 0 0 450px;
+  padding: 80px;
+  background: #ffffff;
+  border-radius: 10px;
+}
